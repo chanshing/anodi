@@ -1,6 +1,6 @@
 # Evaluating textures using analysis of distances ([ANODI](https://link.springer.com/article/10.1007/s11004-013-9482-1))
 
-A module to evaluate quality and diversity of textures using the ANODI method. This code supports binary images only, but can be extended to continuous images using clustering as shown in the [paper](https://link.springer.com/article/10.1007/s11004-013-9482-1).
+A Python module to evaluate quality and diversity of textures using the ANODI method. This code supports binary images only, but can be extended to continuous images using clustering as shown in the [paper](https://link.springer.com/article/10.1007/s11004-013-9482-1).
 
 _Requires scikit-learn and scikit-image._
 

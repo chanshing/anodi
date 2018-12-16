@@ -48,8 +48,7 @@ See [https://en.wikipedia.org/wiki/Multidimensional_scaling](https://en.wikipedi
 We analyze simple rotated patches extracted from a reference image:
 
 <img src="https://i.imgur.com/TpFVyIh.png" width=200>
-
-<img src="https://i.imgur.com/WL19s4Q.png" width=200>
+<img src="https://i.imgur.com/WL19s4Q.png" width=250>
 
 Let's visualize them using muldimensional scaling. As expected, unrotated and 180 rotated patches are closer to reference.
 

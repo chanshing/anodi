@@ -7,7 +7,7 @@ _Requires scikit-learn and scikit-image._
 ## Analysis of distances
 
 ### Multipoint histograms
-For each binary image, a histogram of binary patterns so &mdash; called multipoint histograms &mdash; is computed. In essence, we count the occurances for each possible pattern within a patch size. For instance, there are 16 possible patterns for a 2x2 patch:
+For each binary image, a histogram of binary patterns &mdash; so-called multipoint histograms &mdash; is computed. In essence, we count the occurances for each possible pattern within a patch size. For instance, there are 16 possible patterns for a 2x2 patch:
 
 `[[0,0],[0,0]]`,
 
